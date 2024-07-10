@@ -1,6 +1,6 @@
 
 #we can refer the image we already created
-# FROM run:1.0 
+# FROM run:1.0 # 1.0 is our vesrion
 # CMD ["nginx", "-g", "daemon off;"]
 #or
 FROM almalinux:9
